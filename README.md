@@ -1,5 +1,3 @@
-Here is a **professional GitHub `README.md`** for your **Hand Gesture Recognition with CNNs** project:
-
 ---
 
 # 🤖 Hand Gesture Recognition using Convolutional Neural Networks
@@ -129,5 +127,3 @@ This task is more complex than previous NLP or clustering tasks due to the **hig
 `#DeepLearning` `#CNN` `#GestureRecognition` `#ComputerVision` `#TensorFlow` `#OpenCV` `#HumanComputerInteraction` `#ImageProcessing` `#Keras` `#ProdigyInfotech` `#InternshipProject` `#SignLanguageAI`
 
 ---
-
-Would you like me to generate the `requirements.txt` file as well?
